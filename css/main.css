@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:300');
+@import url('https://fonts.googleapis.com/css?family=Lato:400');
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,600');
 body {
     font-family: 'Lato', sans-serif;
     color: #333;
-    font-size: 14px;
-    font-weight: 300;
+    font-size: 15px;
+    font-weight: 400;
     background: #fff;
     overflow-x: hidden;
 }
@@ -1113,6 +1113,10 @@ a:not([href]):not([tabindex]):hover {
     color: #fff;
 }
 
+.google-btn{
+    width:200px;
+    height: 80px;
+}
 .btn {
     margin: 10px;
 }
