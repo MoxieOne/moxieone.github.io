@@ -920,7 +920,7 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .video-promo .video-promo-content p {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .video-promo .video-promo-content .video-popup {
