@@ -3,14 +3,14 @@
 body {
     font-family: 'Lato', sans-serif;
     color: #333;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 400;
     background: #fff;
     overflow-x: hidden;
 }
 
 p {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 26px;
 }
 
@@ -27,7 +27,7 @@ a {
 }
 
 .btn {
-    font-size: 14px;
+    font-size: 15px;
     padding: 10px 30px;
     border-radius: 0px;
     font-weight: 400;
@@ -152,7 +152,7 @@ a:not([href]):not([tabindex]):hover {
 .section-header .section-subtitle {
     margin-top: 15px;
     color: #333;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
 }
 
@@ -301,7 +301,7 @@ a:not([href]):not([tabindex]):hover {
 }
 
 #hero-area .contents p {
-    font-size: 14px;
+    font-size: 15px;
     color: #fff;
     font-weight: 400;
     line-height: 30px;
@@ -348,7 +348,7 @@ a:not([href]):not([tabindex]):hover {
 
 #slider-area p {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
 }
 
