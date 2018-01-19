@@ -3,14 +3,14 @@
 body {
     font-family: 'Lato', sans-serif;
     color: #333;
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 500;
     background: #fff;
     overflow-x: hidden;
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
     line-height: 26px;
 }
 
@@ -27,10 +27,10 @@ a {
 }
 
 .btn {
-    font-size: 15px;
+    font-size: 16px;
     padding: 10px 30px;
     border-radius: 0px;
-    font-weight: 400;
+    font-weight: 500;
     color: #fff;
     text-transform: uppercase;
     -webkit-transition: all 0.2s linear;
@@ -44,6 +44,7 @@ a {
 .btn:focus {
     box-shadow: none;
     outline: none;
+    color: #fff;
 }
 
 .btn-common {
@@ -79,7 +80,7 @@ a {
 .btn-lg {
     padding: 14px 33px;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .btn-rm {
@@ -152,8 +153,8 @@ a:not([href]):not([tabindex]):hover {
 .section-header .section-subtitle {
     margin-top: 15px;
     color: #333;
-    font-size: 15px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 .section-header .lines {
@@ -229,7 +230,7 @@ a:not([href]):not([tabindex]):hover {
     padding: 7px 0px;
     margin-left: 5px;
     position: relative;
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: 0.3px;
 }
 
@@ -301,9 +302,9 @@ a:not([href]):not([tabindex]):hover {
 }
 
 #hero-area .contents p {
-    font-size: 15px;
+    font-size: 16px;
     color: #fff;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 30px;
     letter-spacing: 0.5px;
 }
@@ -348,8 +349,8 @@ a:not([href]):not([tabindex]):hover {
 
 #slider-area p {
     color: #ffffff;
-    font-size: 15px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 #slider-area .sticky-navigation {
@@ -387,9 +388,9 @@ a:not([href]):not([tabindex]):hover {
 }
 
 #video-area .contents p {
-    font-size: 15px;
+    font-size: 16px;
     color: #fff;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 30px;
     letter-spacing: 0.5px;
 }
@@ -997,7 +998,7 @@ a:not([href]):not([tabindex]):hover {
 .pricing-table .pricing-details span {
     display: inline-block;
     font-size: 28px;
-    font-weight: 400;
+    font-weight: 500;
     color: #4676fa;
     margin-bottom: 20px;
 }
@@ -1008,7 +1009,7 @@ a:not([href]):not([tabindex]):hover {
 
 .pricing-table .pricing-details ul li {
     padding: 10px;
-    font-size: 15px;
+    font-size: 16px;
     border-bottom: 1px solid #eee;
 }
 
@@ -1071,19 +1072,19 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .testimonial-item .testimonial-text h3 {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 100;
     text-transform: uppercase;
 }
 
 .testimonial-item .testimonial-text span {
-    font-size: 15px;
+    font-size: 16px;
     color: #999;
 }
 
 .testimonial-item .testimonial-text p {
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 500;
     padding: 20px 10px 20px 10px;
     letter-spacing: 1px;
     margin: 0;
@@ -1301,7 +1302,7 @@ a:not([href]):not([tabindex]):hover {
     border: none;
     line-height: 44px;
     margin: 0;
-    font-size: 15px;
+    font-size: 16px;
     text-transform: uppercase;
     position: absolute;
     right: 0;
@@ -1371,7 +1372,7 @@ footer {
     width: 60px;
     height: 60px;
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .social-icons ul li a:hover {
